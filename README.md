@@ -1,6 +1,6 @@
 # USING ARTIFICIAL INTELLIGENCE TO DETECT INSINCERE QUESTIONS ON SOCIAL MEDIA
 
-This file has been created as part of thesis writing project for Masters in data Science which needs to be submitted for completing the thesis with LiverPool John Moores University.
+This file has been created as part of thesis writing project for Masters in data Science which needs to be submitted for completing the thesis with LiverPool John Moores University, UK.
 
 ## Steps To Execute
 1. Start with downloading the dataset required for this project, which is available here - https://www.kaggle.com/competitions/quora-insincere-questions-classification/data 
